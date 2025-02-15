@@ -24,17 +24,21 @@ Designed to provide valuable insights, this report helps stakeholders make infor
 
 ## Features
 - *Sales and Profit Analysis*:
-  - Bar chart displaying sales figures for various chocolate products.
-  - Line chart showing profit margin over time.
+  - Bar chart is created by using Bin size feature to Boxes along with Total Shipment Measure.
+  - Line chart showing profit by month and it is attached with a filter of measures like Total Sales,Profits,Costs etc..
+  - so,that user can select whatever he wants.
 - *Key Metrics*:
   - Total Sales: $25M
   - Total Profit: $15M
   - Total Shipments: 6K
   - Total Gifts: 3K
-- *Product Performance*:
+- *Product,Sales Person Performance*:
   - A detailed table listing chocolate products along with their sales, profit, and profit margin, using color coding to indicate performance.
+  - And the table also consists of Sales persons Information along with sales, profit, and profit margin, Least Box Count[LBS%].
+  - The Both Mentioned above Tables are interchangable through using BookMark Function by the Icons mentioned next to Table.
 - *Visualizations*:
-  - Includes bar charts, line charts, and tables for easy data interpretation.
+  - Includes bar charts, line charts, Cards, Filters,Gauge Charts and tables for easy data interpretation.
+  - The Conditional Formatting also widely used at Tables for easy and better understanding.
   - Icons and symbols enhance visual appeal and usability.
 - *Filters and Slicers*:
   - Customization options to filter and slice data for specific points or time periods.
