@@ -53,3 +53,78 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 ## Contact
 For questions, suggestions, or feedback, please contact [K. DHANUSH KUMAR REDDY ] at [dhanushkamanuru1818@gmail.com ].
+
+
+
+
+# New Project Update
+# JS Mart Sales Report
+
+## Overview
+The *Sales Dashboard* Power BI report offers an in-depth analysis of sales, profits, and other key metrics. Designed to provide valuable insights, this report helps stakeholders make informed decisions to enhance business strategies.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
+## Installation
+1. *Download the Report*: [Sales Dashboard Report](![Screenshot 2025-02-16 095446](https://github.com/user-attachments/assets/88fa7b3a-1a19-4db5-b91c-c96992df04e9)
+2. *Open with Power BI*: Ensure you have Power BI installed on your device.
+3. *Load the Data*: Follow the prompts to load your dataset into the report.
+
+## Usage
+1. *Open the Report*: Launch Power BI and open the Sales Dashboard report.
+2. *Explore the Visualizations*: Utilize the various charts and tables to gain insights into sales and profits.
+3. *Apply Filters*: Use the available filters and slicers to customize the data view according to your preferences.
+4. *Analyze Performance*: Leverage the key metrics and visualizations to identify trends and make data-driven decisions.
+
+## Features
+ *Customer Details*
+   - Displays customer information alongside corresponding sales figures.
+- *Key Metrics*:
+  - Total Sales: $25M
+  - Total Profit: $15M
+  - Total Shipments: 6K
+  - Total Orders: 3K
+-*Bar Chart for Sales by Sub-Category*
+   - A visual representation of sales distribution across different sub-categories.
+
+ -*Summary Statistics*
+   - Shows total sales, profit, quantity, and number of orders.
+
+ -*Treemap for Shipping Modes*
+   - Visualizes the distribution of sales based on different shipping methods.
+
+ - *Pie Chart for Regional Sales*
+   - Illustrates sales distribution across various regions.
+
+- *Line Chart for Quarterly Sales and Profit*
+   - Shows trends in sales and profit over time, from Q1 2018 to Q4 2020.
+- *Visualizations*:
+  - Includes bar charts, line charts, and tables for easy data interpretation.
+  - Icons and symbols enhance visual appeal and usability.
+- *Filters and Slicers*:
+  - Customization options to filter and slice data for specific points or time periods.
+
+## Contributing
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
+
+## Credits
+- Project Lead: [K.Dhanush Kumar Reddy]
+- Data Source: [Skill Nation,Jatan Shah]
+
+## Contact
+For questions, suggestions, or feedback, please contact [K.Dhanush Kumar Reddy] at [dhanushkamanuru1818@gmail.com].
+
+
+
+
+
+
+
+
+
+
